@@ -6,9 +6,9 @@ const apikey = "APIKEY" //login di https://ronzxapis.my.id to get apikey || logi
 
 //Other
 const botName = "VelzzyBotz" //Nama bot
-const owner = ["628817839722","16784037437"] //Ganti agar fitur owner bisa digunakan
+const owner = ["5493865402608"] //Ganti agar fitur owner bisa digunakan
 const ownerNomer = "628817839722" //Nomor lu
-const ownerName = "Ronzz YT" //Nama lu
+const ownerName = "Kenisawa" //Nama lu
 const email = "ronzzyt8598@gmail.com" //Email lu
 const youtube = "https://youtube.com/c/RonzzYT" //Youtube lu kalau ngga punya kasih tanda strip "-"
 const region = "Indonesia" //Region lu
